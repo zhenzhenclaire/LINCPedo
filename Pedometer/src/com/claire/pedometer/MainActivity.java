@@ -31,6 +31,8 @@ import com.github.mikephil.charting.utils.XLabels;
 import com.github.mikephil.charting.utils.YLabels;
 import com.github.mikephil.charting.utils.Legend.LegendPosition;
 
+
+
 public class MainActivity extends com.claire.paragraph.DemoBase implements OnSeekBarChangeListener,OnChartValueSelectedListener  {
 
 	 private PieChart mChart;
