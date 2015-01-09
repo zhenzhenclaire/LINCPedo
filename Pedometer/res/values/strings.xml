@@ -37,7 +37,11 @@
 	<color name="LogonColor">#FD7C68</color>
 	<color name="White">#FFFFFF</color>
 
+	<color name="InputColor">#F9F2E6</color>
+
+	
 	<string name="monog">textFamily</string>
 	<string name="title_activity_register">RegisterActivity</string>
+
 
 </resources>
