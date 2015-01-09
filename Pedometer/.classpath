@@ -10,5 +10,7 @@
 	<classpathentry kind="lib" path="libs/xcl-charts.jar"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="libs/weibosdkcore.jar"/>
+	<classpathentry kind="lib" path="libs/WeiboSDK.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
