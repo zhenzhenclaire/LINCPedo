@@ -10,7 +10,10 @@
 	<classpathentry kind="lib" path="libs/xcl-charts.jar"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="libs/weibosdkcore.jar"/>
 	<classpathentry kind="lib" path="libs/WeiboSDK.jar"/>
+=======
+>>>>>>> parent of c48c34f... 差不多的第二版
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
