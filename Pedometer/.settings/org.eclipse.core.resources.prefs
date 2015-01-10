@@ -1,2 +1,11 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 encoding//src/com/claire/pedometer/MainActivity.java=UTF-8
+=======
+encoding//src/com/claire/adapter/MenuAdapter.java=UTF-8
+encoding//src/com/claire/pedometer/BaiduMapActivity.java=UTF-8
+encoding//src/com/claire/pedometer/HomeActivity.java=UTF-8
+encoding//src/com/claire/pedometer/LoginActivity.java=UTF-8
+encoding//src/com/claire/pedometer/MainActivity.java=UTF-8
+encoding//src/com/claire/statistics/MileActivity.java=UTF-8
+>>>>>>> origin/master
